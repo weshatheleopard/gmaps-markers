@@ -1,0 +1,5 @@
+This simple javascript allows you to create a map Googlemap with markers.
+
+Features:
+- creation of the marker from a location (description, lat, long) and custom zoom. (example 1)
+- creation of the markers with automatic centering and zoom from a multidimensional array (description, lat, long). (example 2)
